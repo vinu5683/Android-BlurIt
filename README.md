@@ -14,7 +14,9 @@
 <hr />
 <H2>Gif is pixellated
 </H2>
-[Download BlurIt APK](sample/BlurByVinod.apk)
+<a>
+  
+</a>[Download BlurIt APK](sample/BlurByVinod.apk)
 <hr />
 Special credits to 
 https://github.com/Dimezis/
