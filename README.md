@@ -12,9 +12,9 @@
 <img src="sample/Blur Pic.png" alt="BlurIt Demo" width="300" height="700">
 </div>
 <hr />
-<H2>Gif is pixellated <br/>
-[Download BlurIt APK](sample/BlurIt.apk)
+<H2>Gif is pixellated
 </H2>
+[Download BlurIt APK](sample/BlurByVinod.apk)
 <hr />
 Special credits to 
 https://github.com/Dimezis/
