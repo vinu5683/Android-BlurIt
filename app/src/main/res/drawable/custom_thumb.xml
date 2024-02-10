@@ -1,0 +1,7 @@
+<!-- seekbar_custom_thumb.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FF4081" /> <!-- Adjust color as needed -->
+    <size android:width="30dp" android:height="30dp" /> <!-- Adjust width and height as needed -->
+    <corners android:radius="20dp" /> <!-- Adjust corner radius as needed -->
+
+</shape>

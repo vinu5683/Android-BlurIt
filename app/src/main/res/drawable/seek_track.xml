@@ -1,0 +1,19 @@
+<!-- seekbar_custom_track.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Custom track -->
+    <item>
+        <shape>
+            <solid android:color="#C0C0C0" /> <!-- Adjust color as needed -->
+            <corners android:radius="5dp" /> <!-- Adjust corner radius as needed -->
+        </shape>
+    </item>
+
+    <!-- Default track (in the background) to maintain progress color -->
+    <item android:id="@android:id/background">
+        <shape>
+            <solid android:color="#E0E0E0" /> <!-- Adjust color as needed -->
+            <corners android:radius="5dp" /> <!-- Adjust corner radius as needed -->
+        </shape>
+    </item>
+</layer-list>
